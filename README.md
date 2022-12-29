@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbergo
 - 👀 I’m interested in ... technology, neural networks, coding, soccer and beer
-- 🌱 I’m currently learning how to live
+- 🌱 I’m currently operating in chaos
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me, mbergo.dev
 
