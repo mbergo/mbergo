@@ -6,7 +6,7 @@
 - 🌎 and I have some of my code on Mars in the Perseverance hover
 
 
-Times you saw this profile ![Profile View Counter](https://komarev.com/ghpvc/?username=mbergo)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mbergo)
 
 <!---
 mbergo/mbergo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
