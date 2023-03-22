@@ -4,7 +4,9 @@
 - 💞️ I’m looking to fix more stuff as possible considering the short time I have
 - 📫 How to reach me, mbergo.dev
 - 🌎 and I have some of my code on Mars in the Perseverance hover
-###Times you saw this profile ![Profile View Counter](https://komarev.com/ghpvc/?username=mbergo)
+
+
+Times you saw this profile ![Profile View Counter](https://komarev.com/ghpvc/?username=mbergo)
 
 <!---
 mbergo/mbergo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
