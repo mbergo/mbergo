@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbergo
-- 👀 I’m interested in ... technology, neural networks, coding, soccer, distributed systems...
+- 👀 I’m interested in ... technology, neural networks, coding, soccer, DevOps, SRE, distributed systems...
 - 🌱 I’m currently looking for new challenges
 - 💞️ I’m looking to fix more stuff as possible considering the short time I have
 - 📫 How to reach me, mbergo.dev
